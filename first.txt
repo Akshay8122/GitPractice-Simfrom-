@@ -1,6 +1,13 @@
-<!hello guys>
-first
-second
-thi9ord
-fourth
+hello guys lets practice git command
+init
+pull
+push
+add
+diff
+checkout
+status
+commit
+log 
+branch
+merge
 
